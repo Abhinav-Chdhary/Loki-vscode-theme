@@ -1,10 +1,25 @@
 {
 	"name": "Loki's VScode",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"window.activeBorder": "#eed752",
+		"activityBar.activeBackground": "#eed752",
+		"activityBar.background": "#396f42",
+		"sideBar.background": "#295440c7",
+		"sideBar.foreground": "#b2d0c8",
+		"sideBarSectionHeader.background": "#e9ab02b0",
+		"sideBarSectionHeader.foreground": "#b2d0c8",
+		"editorGroup.border": "#eed752",
+		"button.background": "#396f42",
+		"dropdown.background": "#396f42",
+		"dropdown.listBackground": "#295440c7",
+		"dropdown.border": "#eed752",
+		
+
+		"activityBar.activeFocusBorder": "#3dd17a",
+		"editor.background": "#191f19",
+		"editor.foreground": "#b2d0c8",
+		"activityBarBadge.background": "#eed752e0",
+		"sideBarTitle.foreground": "#e8a850"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +30,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#396f42"
 			}
 		},
 		{
@@ -25,7 +40,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#b2d0c8"
 			}
 		},
 		{
@@ -55,7 +70,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#3ca28f"
 			}
 		},
 		{
@@ -99,7 +114,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#e8a850"
 			}
 		},
 		{
@@ -108,7 +123,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#eed752"
 			}
 		},
 		{
@@ -134,7 +149,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#e9ae51"
 			}
 		},
 		{
@@ -149,7 +164,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#3dd17a"
 			}
 		},
 		{
@@ -267,7 +282,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#65d5c5"
 			}
 		},
 		{
@@ -510,7 +525,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#a2a660"
 			}
 		},
 		{
