@@ -13,7 +13,8 @@
 		"dropdown.background": "#396f42",
 		"dropdown.listBackground": "#295440c7",
 		"dropdown.border": "#eed752",
-		
+		"input.background": "#295440c7",
+		"input.border": "#eed752",
 
 		"activityBar.activeFocusBorder": "#3dd17a",
 		"editor.background": "#191f19",
@@ -90,7 +91,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#b2d0c8"
 			}
 		},
 		{
@@ -101,7 +102,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#cb8720"
 			}
 		},
 		{
@@ -164,7 +165,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#3dd17a"
+				"foreground": "#208c50"
 			}
 		},
 		{
