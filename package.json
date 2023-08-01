@@ -1,0 +1,21 @@
+{
+  "name": "loki-vscode-theme",
+  "displayName": "Loki-vscode-theme",
+  "description": "A color theme based on Marvel's Loki",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Loki's VScode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Loki's VScode-color-theme.json"
+      }
+    ]
+  }
+}
