@@ -15,6 +15,7 @@
 		"dropdown.border": "#eed752",
 		"input.background": "#295440c7",
 		"input.border": "#eed752",
+		"inputOption.activeBorder": "#eed752",
 		"scrollbarSlider.activeBackground": "#eed752",
 		"progressBar.background": "#3dd17a",
 		"list.activeSelectionBackground": "#191f19",
@@ -26,8 +27,8 @@
 		"editor.wordHighlightBackground": "#396f42",
 		"statusBar.background": "#6ccf59",
 		"titleBar.activeBackground": "#191f19",
-		
-
+		"menu.border": "#eed752",
+		"quickInput.foreground": "#eed752",
 		"activityBar.activeFocusBorder": "#3dd17a",
 		"editor.background": "#191f19",
 		"editor.foreground": "#b2d0c8",
