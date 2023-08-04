@@ -2,9 +2,9 @@
   "name": "loki-vscode-theme",
   "displayName": "Loki-vscode-theme",
   "description": "A color theme based on Marvel's Loki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "AbhinavChoudhary",
-  "icon": "https://raw.githubusercontent.com/Abhinav-Chdhary/Loki-vscode-theme/main/ShaanLogo.png",
+  "icon": "ShaanLogo.png",
   "engines": {
     "vscode": "^1.80.0"
   },
